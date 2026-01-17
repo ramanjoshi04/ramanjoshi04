@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:joshi8k@uwindsor.ca"><img src="https://img.shields.io/badge/Email-joshi8k%40uwindsor.ca-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramanjoshi04/"><img src="https://img.shields.io/badge/LinkedIn-Raman%20Joshi-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ramanjoshi04"><img src="https://img.shields.io/badge/GitHub-ramanjoshi04-34d399?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ramanjoshi04.netlify.app/"><img src="https://img.shields.io/badge/GitHub-ramanjoshi04-34d399?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
